@@ -22,4 +22,27 @@
 
 기본 폴더 구조는 다음과 같다
 
-리드미 파일 자동 생성 스크립트는 곧 제공될 예정 (필수 아님)
+### new_topic.sh 사용 방법
+
+#### 실행 환경
+
+`windows`: wsl2  
+`mac`: terminal, iterm
+
+```shell
+chmod +x new_topic.sh # 실행 권한 부여
+```
+
+```shell
+./new_topic.sh # 파일 실행
+```
+
+```plaintext
+Please enter your name (상원: s, 원철: w, 예진: y, 예은: n, 려환: r): s
+Please enter the topic: test
+Folder created: 상원/test
+Please enter the detail topic: test
+Markdown file created: 상원/test/23-07-12-test.md
+```
+
+사용자 알파벳과 주제, 세부 주제를 입력하면 자동으로 md파일을 생성해준다.
