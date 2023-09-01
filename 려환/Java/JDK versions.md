@@ -103,7 +103,7 @@ Java 17 : 2029년 9월 <br>
 - 새로운 날짜와 시간 API(LocalDateTime 등)
 - 람다식(Lambda), Stream API
 - PermGen 영역 삭제
-- Static Link JNI Library
+- Static Link JNI Library 
 
 ## Java 11
 
@@ -120,4 +120,4 @@ Java 17 : 2029년 9월 <br>
 - 패턴 매칭 프리뷰 단계
 - Incubator (Foreign Function & Memory API)
 - 애플 M1 및 이후 프로세서 탑재 제품군에 대한 정식 지원 (Mac 유저들 환호)
-- 난수 생성 API 추가
+- 난수 생성 API 추가 
