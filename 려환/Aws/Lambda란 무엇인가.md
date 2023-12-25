@@ -103,3 +103,4 @@ event객체를 자동으로 애플리케이션에 대한 http 요청으로 변�
 
 
 
+https://docs.google.com/document/d/1S17D2clGncZ5AMr7Ktw_IN-tXQZTynPT/edit?usp=sharing&ouid=102820596029356036413&rtpof=true&sd=true
